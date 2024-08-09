@@ -1,0 +1,11 @@
+
+.container-grid {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-size {
+    display: flex;
+    gap: 0.5em;
+    margin-bottom: 2em; 
+}
